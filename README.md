@@ -1,12 +1,8 @@
 # Friendo
 
-## Want to learn
+## Screenshots
 
-We want to consolidate and learn the following technologies through making this project:
-
-* React native
-* React Hooks
-* node-postgres
+![Friendo screengrab](Friendo.png)
 
 ## Overview
 
